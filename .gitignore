@@ -1,0 +1,8 @@
+# Directories
+.vs/
+packages/
+**/bin/
+**/obj/
+.idea
+
+**.csproj.user
