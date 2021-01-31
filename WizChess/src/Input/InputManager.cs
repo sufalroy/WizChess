@@ -1,8 +1,8 @@
-﻿using System;
+﻿using SharpDX.Multimedia;
+using SharpDX.RawInput;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using SharpDX.Multimedia;
-using SharpDX.RawInput;
+
 
 namespace WizChess.Input
 {
@@ -175,6 +175,5 @@ namespace WizChess.Input
 			return KeyCode.None;
 		}
 		#endregion
-
 	}
 }

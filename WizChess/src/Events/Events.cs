@@ -14,5 +14,4 @@ namespace WizChess.Events
 			Height = height;
 		}
 	}
-
 }
